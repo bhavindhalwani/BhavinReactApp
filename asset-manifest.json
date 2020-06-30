@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BhavinReactApp/static/css/main.bd46b3d2.chunk.css",
+    "main.js": "/BhavinReactApp/static/js/main.239d230c.chunk.js",
+    "main.js.map": "/BhavinReactApp/static/js/main.239d230c.chunk.js.map",
+    "runtime-main.js": "/BhavinReactApp/static/js/runtime-main.33387ec8.js",
+    "runtime-main.js.map": "/BhavinReactApp/static/js/runtime-main.33387ec8.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/BhavinReactApp/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.078fd67f.chunk.js": "/BhavinReactApp/static/js/2.078fd67f.chunk.js",
+    "static/js/2.078fd67f.chunk.js.map": "/BhavinReactApp/static/js/2.078fd67f.chunk.js.map",
+    "index.html": "/BhavinReactApp/index.html",
+    "precache-manifest.8e4344be5f8d76b4461dc1e008586620.js": "/BhavinReactApp/precache-manifest.8e4344be5f8d76b4461dc1e008586620.js",
+    "service-worker.js": "/BhavinReactApp/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/BhavinReactApp/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.bd46b3d2.chunk.css.map": "/BhavinReactApp/static/css/main.bd46b3d2.chunk.css.map",
+    "static/js/2.078fd67f.chunk.js.LICENSE.txt": "/BhavinReactApp/static/js/2.078fd67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33387ec8.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.078fd67f.chunk.js",
+    "static/css/main.bd46b3d2.chunk.css",
+    "static/js/main.239d230c.chunk.js"
+  ]
+}
